@@ -1,6 +1,10 @@
 p {
   color: #000000;
+  
+.right{
+    float: right;
 }
-.cat {
-  margin-bottom: 2px;
+
+.left{
+    float: left;
 }
