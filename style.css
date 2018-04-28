@@ -1,10 +1,10 @@
 p {
   color: #000000;
-  
-.right{
-    float: right;
+
+.left {
+  float: left;
 }
 
-.left{
-    float: left;
+.right {
+  float: right;
 }
