@@ -11,3 +11,7 @@ p {
   align: right;
   text-align: right;
 }
+
+body {
+  font: Garamond;
+}
