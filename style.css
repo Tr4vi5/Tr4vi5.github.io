@@ -7,5 +7,6 @@ p {
 
 .right {
   float: right;
+  float: up;
   text-align: right;
 }
