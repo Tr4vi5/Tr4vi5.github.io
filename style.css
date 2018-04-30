@@ -10,6 +10,12 @@ dates {
   float: up;
 }
 
+#dates{
+  text-align:right;
+  align:right;
+  float:right;
+}
+
 .left {
   text-align: left;
 }
