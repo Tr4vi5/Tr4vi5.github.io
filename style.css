@@ -1,36 +1,8 @@
-
-Link to HTML file <link rel="stylesheet" href="style.css" />
-
-
-p {
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  background-color: #f4f4f4;
   color: #000000;
-}
-
-.dates {
-  float: up;
-}
-
-dates {
-  float: up;
-}
-
-#dates{
-  text-align:right;
-  align:right;
-  float:right;
-}
-
-.left {
-  text-align: left;
-}
-
-.right {
-  float: right;
-  float: up;
-  align: right;
-  text-align: right;
-}
-
-body {
-  font: Garamond;
 }
