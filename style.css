@@ -1,10 +1,8 @@
 /* I wrote all of this code in Sublime text editor and copied it over, leaving some changes to my original code spacing / formatting */
-
 h1{
 	margin-top: 1px;
 	padding-bottom: 1px;
 	margin-bottom: 1px;
-	
 }
 
 h3{
@@ -16,8 +14,6 @@ h5{
 	padding-top: 1px;
 	margin-top: 1px;
 	margin-bottom: 1px;
-	
-	
 }
 
 a{
@@ -27,7 +23,7 @@ a{
 }
 
 a:hover{
-	color: blue;
+	color:blue;
 }
 
 a:visited{
@@ -43,6 +39,7 @@ li{
 	margin-top: 1px;
 	padding-top: 1px;
 }
+
 body{
 	background: #ccc;
 }
@@ -53,7 +50,6 @@ body{
 	height: 85px;
 	border: 2px solid black;
 	margin: 1px;
-	
 }
 
 .container{
@@ -80,6 +76,7 @@ body{
 .role{
 	margin-top: 1px;
 	padding-top: 1px;
+	margin-right: 10%;
 }
 
 .alignleft{
@@ -96,6 +93,7 @@ body{
 	font-weight: bold;
 }
 
+
 .skills ul{
 	float: left;
  	width: 100%;
@@ -104,5 +102,9 @@ body{
 .skills li{
 	float: left;
   	width: 33.3%;
- 	
+}
+
+.aboutme{
+	margin-right: 1em;
+	margin-left: 1em;
 }
