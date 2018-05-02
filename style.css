@@ -1,19 +1,78 @@
-body{
-  background-color: #f4f4f4;
-  color: #000000;
+h1{
+	margin-top: 1px;
+	padding-bottom: 1px;
+	margin-bottom: 1px;
+}
+h3{
+	padding-bottom: 1px;
+	margin-bottom: 1px;
+}
+h5{
+	padding-top: : 1px;
+	margin-top: 1px;
+}
+
+a{
+	color: black;
+	padding-bottom: 1px;
+	margin-bottom: 1px;
+}
+
+ul{
+	margin-top: 1px;
+	padding-top: 1px;
+}
+
+li{
+	margin-top: 1px;
+	padding-top: 1px;
+}
+
+.container{
+	margin: 1em;
+	padding: 1em;
+	font-family: Garamond, serif;
+	background-image: url('../images/resume-background.jpg');
+	border: solid 1px black;
+
+}
+
+.section-header{
+	border-bottom: 1px solid;
+	margin-bottom: 1px;
 }
 
 .location{
-  float: left;
-  width: 70%;
+	margin-bottom: 1px;
+	padding-bottom: 1px;
 }
 
-.dates{
-  float: right;
-  width: 30%;
-}
-  
 .role{
-  float: left;
-  width: 100%;
+	margin-top: 1px;
+	padding-top: 1px;
+}
+
+.alignleft{
+	margin-top: 1em;
+	margin-bottom: 1px;
+	float: left;
+	font-weight: bold;
+}
+
+.alignright{
+	margin-top: 1em;
+	margin-bottom: 1px;
+	float: right;
+	font-weight: bold;
+}
+
+.skills ul{
+	float: left;
+ 	width: 100%;
+}
+
+.skills li{
+	float: left;
+  	width: 33.3%;
+ 	
 }
