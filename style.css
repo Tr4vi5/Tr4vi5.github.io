@@ -18,3 +18,7 @@ body{
   width: 30%;
 }
   
+.role{
+  float: left;
+  width: 100%;
+}
