@@ -32,7 +32,7 @@ li{
 	margin: 1em;
 	padding: 1em;
 	font-family: Garamond, serif;
-	background-image: url('resume-background.jpg');
+	background-image: url('https://raw.githubusercontent.com/Tr4vi5/Tr4vi5.github.io/path/to/resume-background.jpg');
 	border: solid 1px black;
 
 }
