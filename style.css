@@ -44,10 +44,6 @@ body{
 	background: #ccc;
 }
 
-p{
-	line-height: 1.5em;
-}
-
 .me{
 	float: right;
 	width: 60px;
