@@ -27,11 +27,11 @@ a{
 }
 
 a:hover{
-	color:blue;
+	color: blue;
 }
 
 a:visited{
-	color:black;
+	color: none;
 }
 
 ul{
