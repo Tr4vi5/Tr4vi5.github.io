@@ -2,20 +2,34 @@ h1{
 	margin-top: 1px;
 	padding-bottom: 1px;
 	margin-bottom: 1px;
+	
 }
+
 h3{
 	padding-bottom: 1px;
 	margin-bottom: 1px;
 }
+
 h5{
-	padding-top: : 1px;
+	padding-top: 1px;
 	margin-top: 1px;
+	margin-bottom: 1px;
+	
+	
 }
 
 a{
-	color: black;
+	color:black;
 	padding-bottom: 1px;
 	margin-bottom: 1px;
+}
+
+a:hover{
+	color:blue;
+}
+
+a:visited{
+	color:black;
 }
 
 ul{
@@ -27,14 +41,28 @@ li{
 	margin-top: 1px;
 	padding-top: 1px;
 }
+body{
+	background: #ccc;
+}
+
+.me{
+	float: right;
+	width: 60px;
+	height: 85px;
+	border: 2px solid black;
+	margin: 1px;
+	
+}
 
 .container{
 	margin: 1em;
 	padding: 1em;
 	font-family: Garamond, serif;
-	background-image: url('https://raw.githubusercontent.com/Tr4vi5/Tr4vi5.github.io/path/to/resume-background.jpg');
+	background-image: url('ivory.png');
+	background-size: stretch;
+	background-position: center;
+	background-repeat: no-repeat;
 	border: solid 1px black;
-
 }
 
 .section-header{
